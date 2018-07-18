@@ -1,9 +1,9 @@
 ## Compare GAN code.
 
-The code that was used in "Are GANs Created Equal? A Large-Scale Study"
+The code was used in "Are GANs Created Equal? A Large-Scale Study"
 paper (https://arxiv.org/abs/1711.10337) and in "The GAN Landscape: Losses, Architectures, Regularization, and Normalization" (https://arxiv.org/abs/1807.04720).
 
-If you want to see the version used only in the first paper - Please see the *v1* branch of this repository.
+If you want to see the version used, only in the first paper - Please see the *v1* branch of this repository.
 
 ## Pre-trained models
 
@@ -17,7 +17,7 @@ You can see them in ``generate_tasks_lib.py`` file and train using ``--experimen
 
 ### Installation:
 
-To install, run:
+Install, run:
 
 ```shell
 python -m pip install -e . --user
